@@ -1,2 +1,2 @@
 # os181
-Sistem Operasi Semester Genap 2017/2018
+ZCZC Sistem Operasi Awal (1)
